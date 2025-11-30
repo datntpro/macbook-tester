@@ -222,7 +222,7 @@ Kết quả test chỉ mang tính tham khảo. Quyết định mua máy là trá
 
 **DATNT**
 - Website: [tools.datnt.work](https://tools.datnt.work)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@datntpro](https://github.com/datntpro)
 
 ---
 
