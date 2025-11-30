@@ -1,0 +1,13 @@
+# MacBook Tester - Dependencies
+# 
+# App sử dụng Python standard library, không cần cài thêm package
+# 
+# Required (built-in):
+# - tkinter (GUI)
+# - subprocess (system commands)
+# - json, os, sys, datetime, threading, tempfile, webbrowser
+#
+# Python version: 3.9+
+#
+# Note: Nếu tkinter không hoạt động, cài qua Homebrew:
+# brew install python-tk@3.11
